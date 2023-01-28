@@ -36,7 +36,7 @@ $RECYCLE.BIN/
 # Packages
 ############################
 
-/node_modules
+
 *.7z
 *.csv
 *.dat
